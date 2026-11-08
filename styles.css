@@ -1,0 +1,68 @@
+/* css styles */
+
+/* ---------- General ---------- */
+.columns {
+  align-items: flex-start;
+}
+
+h1 {
+  margin-bottom: 0.3rem;
+}
+
+/* hide the "About" heading on the page, but keep it in "On this page" */
+#about > h2,
+h2#about {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---------- Intro (photo + text) ---------- */
+.intro {
+  align-items: flex-start;     /* both columns start at the top */
+}
+
+.intro .column > p:first-child {
+  margin-top: -0.3rem;         /* nudge text up to line up with photo top */
+}
+
+.intro .column > figure,
+.intro .column > .quarto-figure {
+  margin-top: 0;
+}
+
+.intro img {
+  display: block;              /* removes the small gap above and below the image */
+  margin-top: 0;
+}
+
+/* ---------- Research highlights ---------- */
+.research-item {
+  align-items: start;          /* image and text both start at the top */
+  margin-bottom: 3rem;
+}
+
+/* remove hidden top margins so the tops line up */
+.research-item h3 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.research-item p:first-child,
+.research-item figure,
+.research-item .quarto-figure {
+  margin-top: 0;
+}
+
+.research-item img {
+  width: 100%;
+  display: block;              /* removes the small gap under inline images */
+  border-radius: 8px;
+  margin: 0;
+}

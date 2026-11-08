@@ -1,0 +1,27 @@
+---
+title: "Publications"
+---
+
+### Selected publications
+
+-   Danso, D. K., Patricola, C. M., Bercos-Hickey, E., & Lavaysse, C. (2025). **The effect of African Easterly Wave suppression by periodicity on Atlantic tropical cyclones.** *Environmental Research Letters*. [doi:10.1088/1748-9326/ade609](https://doi.org/10.1088/1748-9326/ade609)
+
+-   Danso, D. K., Patricola-DiRosario, C. M., & Balaguru, K. (2025). **Combined impacts of hurricane strengthening and global mean sea level rise on future Atlantic storm surge events.** *Climatic Change*. [doi:10.1007/s10584-025-04081-5](https://doi.org/10.1007/s10584-025-04081-5)
+
+-   Danso, D. K., Quagraine, K. T., Akinsanola, A. A., Amekudzi, L. K., & Adeyeri, O. E. (2025). **Near-term heatwave risk in HighResMIP models across different temperature zones of West Africa.** *Environmental Research: Climate*. [doi:10.1088/2752-5295/add31f](https://doi.org/10.1088/2752-5295/add31f)
+
+-   Akinsanola, A. A., Adebiyi, A. A., Bobde, V., et al. (2025). **Projected changes in African easterly wave activity due to climate change.** *Communications Earth & Environment*. [doi:10.1038/s43247-024-01981-9](https://doi.org/10.1038/s43247-024-01981-9)
+
+-   Danso, D. K., Patricola, C. M., Kurian, J., et al. (2024). **Air-sea coupling influence on projected changes in major Atlantic hurricane events.** *Weather and Climate Extremes*. [doi:10.1016/j.wace.2024.100649](https://doi.org/10.1016/j.wace.2024.100649)
+
+-   Danso, D. K., & Patricola, C. M. (2024). **Future projections of storm surge in Hurricane Katrina and sensitivity to meteorological forcing resolution.** *Environmental Research Communications*. [doi:10.1088/2515-7620/ad7351](https://doi.org/10.1088/2515-7620/ad7351)
+
+-   Danso, D. K., Anquetin, S., Diedhiou, A., et al. (2022). **A CMIP6 assessment of the potential climate change impacts on solar photovoltaic energy and its atmospheric drivers in West Africa.** *Environmental Research Letters*. [doi:10.1088/1748-9326/ac5a67](https://doi.org/10.1088/1748-9326/ac5a67)
+
+-   Danso, D. K., Patricola, C. M., & Bercos-Hickey, E. (2022). **Influence of African Easterly Wave Suppression on Atlantic Tropical Cyclone Activity in a Convection-Permitting Model.** *Geophysical Research Letters*. [doi:10.1029/2022GL100590](https://doi.org/10.1029/2022GL100590)
+
+-   Larbi, I., Nyamekye, C., Dotse, S.-Q., et al. (2021). **Rainfall and temperature projections and the implications on streamflow and evapotranspiration in the near future at the Tano River Basin of Ghana.** *Scientific African*. [doi:10.1016/j.sciaf.2021.e01071](https://doi.org/10.1016/j.sciaf.2021.e01071)
+
+-   Danso, D. K., Anquetin, S., Diedhiou, A., et al. (2020). **Daytime low-level clouds in West Africa – occurrence, associated drivers, and shortwave radiation attenuation.** *Earth System Dynamics*. [doi:10.5194/esd-11-1133-2020](https://doi.org/10.5194/esd-11-1133-2020)
+
+-   Danso, D. K., François, B., Hingray, B., & Diedhiou, A. (2021). **Assessing hydropower flexibility for integrating solar and wind energy in West Africa using dynamic programming and sensitivity analysis. Illustration with the Akosombo reservoir, Ghana.** *Journal of Cleaner Production*. [doi:10.1016/j.jclepro.2020.125559](https://doi.org/10.1016/j.jclepro.2020.125559)

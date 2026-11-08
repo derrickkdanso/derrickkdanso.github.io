@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr Derrick Danso",
+    "section": "",
+    "text": "Dr Derrick Danso\nClimate Scientist\nNational Centre for Atmospheric Sciences, University of Reading, United Kingdom"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Dr Derrick Danso",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on:\n\nClimate extremes – drivers, variability, and future changes\n\nTropical cyclones and tropical disturbances\nHeatwaves and temperature extremes\nExtreme precipitation, windstorms, and atmospheric rivers\nStorm surges and compound flooding\n\nExtreme event attribution – storyline methods including pseudo global warming, reanalysis-based and nudged storylines\nAtmospheric and climate dynamics – large-scale circulation, tropical disturbances, and atmospheric processes\nClimate modelling and projections – high-resolution regional climate modelling, coupled atmosphere-ocean modeling, coastal hydrodynamics modeling\nRenewable energy – solar photovoltaic and wind energy potential, hydropower reservoir management, hydropower flexibility and integration of variable renewable energy sources, climate change impacts on renewable energy potential"
+  },
+  {
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "Derrick Danso",
+    "section": "",
+    "text": "Storylines of Extreme Weather Events\nHigh-resolution climate modelling"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Derrick Danso",
+    "section": "",
+    "text": "📧 Email: your.email@example.com\n🔗 Google Scholar: [Link]\n🔗 ORCID: [Link]\n🔗 GitHub: [Link]\n🔗 LinkedIn: [Link]"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Selected publications\n\nDanso, D. K., Patricola, C. M., Bercos-Hickey, E., & Lavaysse, C. (2025). The effect of African Easterly Wave suppression by periodicity on Atlantic tropical cyclones. Environmental Research Letters. doi:10.1088/1748-9326/ade609\nDanso, D. K., Patricola-DiRosario, C. M., & Balaguru, K. (2025). Combined impacts of hurricane strengthening and global mean sea level rise on future Atlantic storm surge events. Climatic Change. doi:10.1007/s10584-025-04081-5\nDanso, D. K., Quagraine, K. T., Akinsanola, A. A., Amekudzi, L. K., & Adeyeri, O. E. (2025). Near-term heatwave risk in HighResMIP models across different temperature zones of West Africa. Environmental Research: Climate. doi:10.1088/2752-5295/add31f\nAkinsanola, A. A., Adebiyi, A. A., Bobde, V., et al. (2025). Projected changes in African easterly wave activity due to climate change. Communications Earth & Environment. doi:10.1038/s43247-024-01981-9\nDanso, D. K., Patricola, C. M., Kurian, J., et al. (2024). Air-sea coupling influence on projected changes in major Atlantic hurricane events. Weather and Climate Extremes. doi:10.1016/j.wace.2024.100649\nDanso, D. K., & Patricola, C. M. (2024). Future projections of storm surge in Hurricane Katrina and sensitivity to meteorological forcing resolution. Environmental Research Communications. doi:10.1088/2515-7620/ad7351\nDanso, D. K., Anquetin, S., Diedhiou, A., et al. (2022). A CMIP6 assessment of the potential climate change impacts on solar photovoltaic energy and its atmospheric drivers in West Africa. Environmental Research Letters. doi:10.1088/1748-9326/ac5a67\nDanso, D. K., Patricola, C. M., & Bercos-Hickey, E. (2022). Influence of African Easterly Wave Suppression on Atlantic Tropical Cyclone Activity in a Convection-Permitting Model. Geophysical Research Letters. doi:10.1029/2022GL100590\nLarbi, I., Nyamekye, C., Dotse, S.-Q., et al. (2021). Rainfall and temperature projections and the implications on streamflow and evapotranspiration in the near future at the Tano River Basin of Ghana. Scientific African. doi:10.1016/j.sciaf.2021.e01071\nDanso, D. K., Anquetin, S., Diedhiou, A., et al. (2020). Daytime low-level clouds in West Africa – occurrence, associated drivers, and shortwave radiation attenuation. Earth System Dynamics. doi:10.5194/esd-11-1133-2020\nDanso, D. K., François, B., Hingray, B., & Diedhiou, A. (2021). Assessing hydropower flexibility for integrating solar and wind energy in West Africa using dynamic programming and sensitivity analysis. Illustration with the Akosombo reservoir, Ghana. Journal of Cleaner Production. doi:10.1016/j.jclepro.2020.125559"
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Dr Derrick Danso",
+    "section": "",
+    "text": "I am currently a Postdoctoral Research Associate at the University of Reading working on storyline approaches to investigate extreme weather events. This research aims to understand the physical mechanisms driving impactful events and how they may change under different climate conditions.\n\n\n\nMy previous research has examined the relationship between tropical disturbances, African Easterly Waves, and North Atlantic tropical cyclone activity using climate models and observations.\n\n\n\nI use high-resolution climate simulations, including CMIP6 and HighResMIP datasets, to evaluate the representation of extreme weather processes and their regional impacts."
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Dr Derrick Danso",
+    "section": "",
+    "text": "Danso et al.\nInfluence of African Easterly Wave activity on North Atlantic tropical cyclone variability.\nGeophysical Research Letters.\nDanso et al.\nInvestigating extreme weather events using high-resolution climate modelling and event-based approaches.\n\nFor a complete list of publications, please visit my Google Scholar profile."
+  },
+  {
+    "objectID": "index.html#research-tools-and-methods",
+    "href": "index.html#research-tools-and-methods",
+    "title": "Dr Derrick Danso",
+    "section": "",
+    "text": "I work with:\n\nClimate models: WRF, CESM, HighResMIP, CMIP6\nReanalysis datasets: ERA5, 20CRv3, MERRA-2\nAtmospheric and ocean modelling systems\nStatistical analysis and visualization using:\n\nR\nPython\nMATLAB\nFortran"
+  },
+  {
+    "objectID": "index.html#teaching-and-service",
+    "href": "index.html#teaching-and-service",
+    "title": "Dr Derrick Danso",
+    "section": "",
+    "text": "I have experience in:\n\nUniversity teaching and teaching assistance\nUndergraduate research supervision\nPeer review for journals including:\n\nNature Climate Change\nEnvironmental Research Letters\nGeophysical Research Letters\nClimate Dynamics\n\n\nI am also involved in scientific service activities through conference and research community engagement."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Dr Derrick Danso",
+    "section": "Contact me",
+    "text": "Contact me\n📧 Email: d.k.danso@reading.ac.uk / derrickkdanso@gmail.com\n🔗 Google Scholar\n🔗 ORCID\n🔗 ResearchGate"
+  },
+  {
+    "objectID": "index.html#research-highlights",
+    "href": "index.html#research-highlights",
+    "title": "Dr Derrick Danso",
+    "section": "Research Highlights",
+    "text": "Research Highlights\n\n\n\n\n\nAfrican Easterly Waves and Atlantic Tropical Cyclone Activity\nInvestigating the influence of African easterly waves (AEWs) on Atlantic tropical cyclone activity using convection-permitting regional climate model simulations. By comparing simulations with and without AEWs, the study examines their influence on tropical cyclone frequency, intensity, genesis timing and location. Results show that AEWs have limited influence on seasonal cyclone numbers but can affect the timing and geographical distribution of genesis, as well as the atmospheric conditions favouring cyclone development.\nRead more\n\n\n\n\n\n\n\nHurricane Intensification, Sea-Level Rise and Storm Surge\nThis work investigated the individual and combined effects of tropical cyclone intensification and sea-level rise on storm surges along the U.S. Atlantic Coast. Storm surge and inundation changes are simulated under different coastal settings. Results highlight the complex and sometimes nonlinear interactions between sea-level rise and cyclone intensity, showing how their combined effects can substantially amplify storm surge and expand coastal flooding, with responses influenced by coastal topography and storm characteristics.\nRead more"
+  },
+  {
+    "objectID": "index.html#research-highlights-1",
+    "href": "index.html#research-highlights-1",
+    "title": "Dr Derrick Danso",
+    "section": "",
+    "text": "I am currently a Postdoctoral Research Associate at the University of Reading working on storyline approaches to investigate extreme weather events. This research aims to understand the physical mechanisms driving impactful events and how they may change under different climate conditions.\n\n\n\nMy previous research has examined the relationship between tropical disturbances, African Easterly Waves, and North Atlantic tropical cyclone activity using climate models and observations.\n\n\n\nI use high-resolution climate simulations, including CMIP6 and HighResMIP datasets, to evaluate the representation of extreme weather processes and their regional impacts."
+  },
+  {
+    "objectID": "index.html#research-background",
+    "href": "index.html#research-background",
+    "title": "Dr Derrick Danso",
+    "section": "",
+    "text": "I am currently a Postdoctoral Research Associate at the University of Reading working on storyline approaches to investigate extreme weather events. This research aims to understand the physical mechanisms driving impactful events and how they may change under different climate conditions.\n\n\n\nMy previous research has examined the relationship between tropical disturbances, African Easterly Waves, and North Atlantic tropical cyclone activity using climate models and observations.\n\n\n\nI use high-resolution climate simulations, including CMIP6 and HighResMIP datasets, to evaluate the representation of extreme weather processes and their regional impacts."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Dr Derrick Danso",
+    "section": "About",
+    "text": "About\n\n\n\n\nI am a research scientist specialising in climate extremes (their risks and impacts), their drivers, and future changes. My research combines climate modelling, different datasets, and statistical methods to understand extreme events and assess how they may evolve under climate change.\nI also specialise in extreme event attribution, investigating how the likelihood and characteristics of specific extreme events differ between the factual climate and alternative counterfactual climate scenarios representing warmer or cooler conditions, with a particular focus on tropical cyclones and heatwaves."
+  }
+]
