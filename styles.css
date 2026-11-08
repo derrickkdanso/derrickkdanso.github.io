@@ -23,6 +23,11 @@ h2#about {
   border: 0;
 }
 
+#title-block-header,
+.quarto-title-block {
+  display: none;
+}
+
 /* ---------- Intro (photo + text) ---------- */
 .intro {
   align-items: flex-start;     /* both columns start at the top */
